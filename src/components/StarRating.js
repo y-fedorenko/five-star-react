@@ -13,7 +13,7 @@ function StarRating() {
     'Very Good',
     'Excellent'
   ];
-  
+
   return (
     <div>
       <div className='star-wrapper'>
